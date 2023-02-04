@@ -12,5 +12,6 @@ public class test {
         System.out.println("初次使用git");
         System.out.println("再次使用git");
         System.out.println("分支2初次使用git");
+        System.out.println("三次使用git");
     }
 }
