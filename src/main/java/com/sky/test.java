@@ -15,5 +15,6 @@ public class test {
         System.out.println("分支2再次使用git");
         System.out.println("三次使用git");
         System.out.println("提交远程库");
+        System.out.println("拉取代码到本地库！")
     }
 }
